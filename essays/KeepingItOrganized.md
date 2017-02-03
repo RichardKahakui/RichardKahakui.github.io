@@ -59,7 +59,7 @@ desktop app without having to go through the difficulties of having a browser. T
 desktop app isn't just an alternative, its an improvement allowing for quicker changes 
 and updates.
 
-GitHub seems to be the most popular Configuration Management tool and not by accident. 
+<p>GitHub seems to be the most popular Configuration Management tool and not by accident. 
 Coders know the issues and Git has addressed them. And with the ability to work off their
 desktop it is even more comfortable. I have found it more efficient than any other method
 and it is quick to pick up since it runs from a familiar interface that all are used to.
