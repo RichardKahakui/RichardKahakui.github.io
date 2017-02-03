@@ -7,9 +7,9 @@ labels:
   - Configuration Management
   - GitHub
 ---
-<div class="ui medium rounded images">
-	<img class="ui image" src="https://puppet.com/sites/default/files/2016-03/configuration-lg_3.png">
-</div?>
+<div class="ui segment">
+	<img class="ui centered small image" src="https://puppet.com/sites/default/files/2016-03/configuration-lg_3.png">
+</div>
 Configuration Management is a basic yet seemingly advanced practice when learning 
 programming. Although it usually does appear in one's first programming class, the depth
 in which the class highlights configuration management only scratches the surface. The 
@@ -32,8 +32,8 @@ be finished sooner. However, especially when working in unix, collaborating on t
 assignment becomes a catastrophe when members save over other peoples code, replacing
 completed chunks of working code. Hours of work completely down the drain. The desperate
 attempt of finding the optimal collaboration IDE lingers with the end of each of class.
-<div class="ui large rounded images">
-	<img class="ui image" src="..//images/godsent.jpg">
+<div class="ui segment">
+	<img class="ui small left floated image" src="..//images/godsent.jpg">
 </div?>
 But thankfully! transcending past unix and into the 21st century, we now have the beauty 
 which is **Git/GitHub**. Git/GitHub is that God sent prodigy child that allows for all your
