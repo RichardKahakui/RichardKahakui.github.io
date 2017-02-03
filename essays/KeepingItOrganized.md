@@ -34,12 +34,12 @@ be finished sooner. However, especially when working in unix, collaborating on t
 assignment becomes a catastrophe when members save over other peoples code, replacing
 completed chunks of working code. Hours of work completely down the drain. The desperate
 attempt of finding the optimal collaboration IDE lingers with the end of each of class.
-</div?>
+
 <div class="ui segment">
 	<img class="ui small left floated image" src="..//images/godsent.jpg">
 
 But thankfully! transcending past unix and into the 21st century, we now have the beauty 
-which is **Git/GitHub**. Git/GitHub is that God sent prodigy child that allows for all your
+which is <strong>Git/GitHub<strong>. Git/GitHub is that God sent prodigy child that allows for all your
 organization, management and even collaboration issues to be addressed given you nurture
 your growth with Git. 
 <ul>
