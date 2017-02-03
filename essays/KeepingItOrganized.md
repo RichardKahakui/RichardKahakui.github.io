@@ -7,7 +7,9 @@ labels:
   - Configuration Management
   - GitHub
 ---
-
+<div class="ui medium rounded images">
+	<img class="ui image" src="https://puppet.com/sites/default/files/2016-03/configuration-lg_3.png">
+</div?>
 Configuration Management is a basic yet seemingly advanced practice when learning 
 programming. Although it usually does appear in one's first programming class, the depth
 in which the class highlights configuration management only scratches the surface. The 
@@ -32,15 +34,14 @@ completed chunks of working code. Hours of work completely down the drain. The d
 attempt of finding the optimal collaboration IDE lingers with the end of each of class.
 
 But thankfully! transcending past unix and into the 21st century, we now have the beauty 
-which is Git/GitHub. Git/GitHub is that God sent prodigy child that allows for all your
+which is **Git/GitHub**. Git/GitHub is that God sent prodigy child that allows for all your
 organization, management and even collaboration issues to be addressed given you nurture
 your growth with Git. 
-
-No longer worry about dealing with directories now that there is one place to keep your 
++ no longer worry about dealing with directories now that there is one place to keep your 
 files in a repository using their easy to follow user interface. 
-No longer look and replace and copy files from all over when they're all located in one 
-location. 
-No LONGER deal with annoying team members who step on your code and cause a desperate 
++ No Longer look and replace and copy files from all over when they're all located in one 
+place. 
++ **NO LONGER** deal with annoying team members who step on your code and cause a desperate 
 cram sesh to recreate hours of work, since now you can branch off similar working code 
 altar just what you need and push up only the changes necessary.
 
