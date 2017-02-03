@@ -1,11 +1,11 @@
 ---
 layout: essay
 type: essay
-title: Why Configuration Management
+title: Gitting Managed
 date: 2017-01-31
 labels: 
-  - Learning
-  - OpenSource
+  - Configuration Management
+  - GitHub
 ---
 
 Configuration Management is a basic yet seemingly advanced practice when learning 
