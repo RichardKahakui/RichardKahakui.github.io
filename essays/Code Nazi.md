@@ -43,13 +43,13 @@ the for loops are gone. The reason we are likely forced to not have loops is bec
 are trying to learn a new segment in programming called functional programming, utilizing
 the underscore library to negate the need to use any if statements or loops.
 
-<p>	
-The Code Nazi notifies you when everything is okay through a green check mark. <img class="ui small right floated image" src="..//images/code-standards-david.jpg">I have
+	
+<p>The Code Nazi notifies you when everything is okay through a green check mark. <img class="ui small right floated image" src="..//images/code-standards-david.jpg">I have
 found myself dreading to see if there is a green check in corner or not. However, as 
 strict as it is, ESLint isn't trying to kill us but allowing us to practice on 
 diversifying our programming knowledge base. Although I do find some of its spacing issues
 quite excessive, I do feel a sense of beauty in the masterpiece which ESLint has forced 
-us to sculpt. 	
+us to sculpt.</p> 	
 </div>
 
 In my personal opinion, coding standards are something you should consider implementing. 
