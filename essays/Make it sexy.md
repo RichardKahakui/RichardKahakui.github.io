@@ -74,7 +74,7 @@ variations by adding those alterations via css.
 <img class="ui small right floated image" src="..//images/sexy-breathtaking.jpg">
 <div class="p sexy">
 Next time you decide to make a webpage I suggest moving past HTML. Move beyond the basics
-with css. Transcend into a UI Framework and Be Jason so you can take Tatiana. Make it Sexy.
+with css. Transcend into a UI Framework and be Jason and take Tatiana. Make it Sexy.
 </div>
 </div>
 
