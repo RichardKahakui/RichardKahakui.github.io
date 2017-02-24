@@ -21,6 +21,7 @@ div.p {
 	font-family: fantasy;
 }
 .sexy {
+	padding-top: 15px;
 	font-family: 'Dancing Script', cursive;
 	font-size: 175%;
 }
