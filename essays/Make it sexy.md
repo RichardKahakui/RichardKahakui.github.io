@@ -23,7 +23,7 @@ div.p {
 .sexy {
 	padding-top: 15px;
 	font-family: 'Dancing Script', cursive;
-	font-size: 150%;
+	font-size: 170%;
 	text-align: center;
 }
 </style>
