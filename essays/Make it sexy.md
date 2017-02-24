@@ -23,7 +23,8 @@ div.p {
 .sexy {
 	padding-top: 15px;
 	font-family: 'Dancing Script', cursive;
-	font-size: 175%;
+	font-size: 150%;
+	text-align: center;
 }
 </style>
 
@@ -32,7 +33,7 @@ div.p {
 	<img class="ui image" src="..//images/sexy-bad.jpg">
 </div>
 
-<div class="p">
+<div class="p bad">
 Remember back to your younger days, still in grade school and its art time. And this
 being your first time, you pull out all your crayons and color to your hearts content. 
 You draw the most beautiful, amazingly epic drawing that you've ever laid witness to.
@@ -44,13 +45,14 @@ friend Brett would appreciate. <i> There goes Tati and Jason into the sunset as 
 make use of my drawing to wrap their now tasteless gum.</i>
 </div>
 
-<div class="p bad">
+<div class="p">
 Just like little old you, we all know how to do a basic UI design using html and css. Even
 those who don't, can very quickly pick up the basics through many of the free and easy 
 online coding courses. But once you finish you'll quickly realize one of the issues of 
-the base version, is that it's quite difficult to make it really how you want it. Whether
-it is the immense time it takes to format things properly or the sexy factor that 
-initially look for when you first visit a web page, these are all addressed when using a 
+the vanilla version, is that it's quite difficult to make it really how you want it. 
+Luckily, much like this font, your development process can greatly improve. Whether
+it is the immense time it takes to format things properly or the appeal factor that one
+initially looks for when first visiting a web page, these are all addressed when using a 
 UI Framework.
 </div>
 
