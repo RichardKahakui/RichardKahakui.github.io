@@ -12,7 +12,7 @@ labels:
 
 <style>
 div.p {
-	padding-bottom: 10px;
+	padding-bottom: 20px;
 }
 .bad {
 	font-family: monospace;
@@ -64,7 +64,6 @@ elements and variations. It may not have everything yet, but as it grows it beco
 to make things like a footer background segment that has several columns with lists, 
 links, forms and more with easily adjustable formatting if you want to make your own 
 variations by adding those alterations via css.
-
 </div>
 
 </body>
