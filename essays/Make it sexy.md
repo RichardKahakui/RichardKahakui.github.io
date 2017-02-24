@@ -26,7 +26,7 @@ div.p {
 </style>
 
 <body>
-<div class="ui small images">
+<div class="ui medium images">
 	<img class="ui image" src="..//images/sexy-bad.jpg">
 </div>
 
@@ -34,11 +34,11 @@ div.p {
 Remember back to your younger days, still in grade school and its art time. And this
 being your first time, you pull out all your crayons and color to your hearts content. 
 You draw the most beautiful, amazingly epic drawing that you've ever laid witness to.
-Now finished you're about to share with cute little Tatiana and you realize Jake with the 
+Now finished you're about to share with cute little Tatiana and you realize Jason with the 
 nice shoes and nice hair and nice... actually drew your first visual understanding of what
 it meant for something to be sexy, next to Tati of course. And then you reflect. All you 
 really did was create several dozen never before seen shapes that not even your best 
-friend Brett would appreciate. <i> There goes Tati and Jake into the sunset as they 
+friend Brett would appreciate. <i> There goes Tati and Jason into the sunset as they 
 make use of my drawing to wrap their now tasteless gum.</i>
 </div>
 
@@ -64,6 +64,14 @@ elements and variations. It may not have everything yet, but as it grows it beco
 to make things like a footer background segment that has several columns with lists, 
 links, forms and more with easily adjustable formatting if you want to make your own 
 variations by adding those alterations via css.
+</div>
+
+<div class="ui segment">
+<img class="ui medium right floated image" src="..//images/sexy-breathtaking.jpg>
+<div class="p sexy">
+Next time you decide to make a webpage I suggest moving past HTML. Move beyond the basics
+with css. Transcend into a UI Framework and Be Jason so you can take Tatiana. Make it Sexy.
+</div>
 </div>
 
 </body>
