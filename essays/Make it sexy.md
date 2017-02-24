@@ -22,6 +22,7 @@ div.p {
 }
 .sexy {
 	font-family: 'Dancing Script', cursive;
+	font-size: 175%;
 }
 </style>
 
@@ -67,7 +68,7 @@ variations by adding those alterations via css.
 </div>
 
 <div class="ui segment">
-<img class="ui medium right floated image" src="..//images/sexy-breathtaking.jpg>
+<img class="ui medium right floated image" src="..//images/sexy-breathtaking.jpg">
 <div class="p sexy">
 Next time you decide to make a webpage I suggest moving past HTML. Move beyond the basics
 with css. Transcend into a UI Framework and Be Jason so you can take Tatiana. Make it Sexy.
