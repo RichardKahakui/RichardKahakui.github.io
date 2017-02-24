@@ -13,11 +13,16 @@ labels:
 	<img class="ui image" src="..//images/code-standards-intellij.jpg">
 </div>
 
+<style>
+div.p {
+	padding-bottom: 10px;
+}
+</style>
 <h2>
 
 </h2>
 
-<div class="item">
+<div class="p">
 Remember back to your younger days, still in grade school and its art time. And this
 being your first time, you pull out all your crayons and color to your hearts content. 
 You draw the most beautiful, amazingly epic drawing that you've ever laid witness to.
@@ -28,10 +33,14 @@ really did was create several dozen never before seen shapes that not even your 
 friend Brett would appreciate. <i> There goes Tati and Jake into the sunset as they 
 make use of my drawing to wrap their now tasteless gum.</i>
 </div>
-<div class="item"></div>
-<div class="item">
+
+<br>
+
+<div class="p">
 Just like little old you, we all know how to do a basic UI design using html and css. Even
 those who don't, can very quickly pick up the basics through many of the free and easy 
 online coding courses. But once you finish you'll quickly realize one of the issues of 
-the base version, its its quite difficult to make it really how you want it.
+the base version, is that it's quite difficult to make it really how you want it. Whether
+it is the immense time it takes to format things properly or the sexy factor that initially
+look for when you first visit a web page, these are all addressed when using a UI Framework.
 </div>
