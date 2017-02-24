@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Make it sexy
+title: Make it Sexy
 date: 2017-01-31
 labels: 
   - UI Frameworks
@@ -12,7 +12,7 @@ labels:
 
 <style>
 div.p {
-	padding-bottom: 5px;
+	padding-bottom: 10px;
 }
 .bad {
 	font-family: monospace;
@@ -53,9 +53,18 @@ UI Framework.
 </div>
 
 <div class="p better">
-For my ICS 314 we began dipping into Semantic UI as our choice of UI Frameworks. Our 
-choice with Semantic UI was likely due to the logical format of which Semantic UI tries to
-use when defining elements and variations. 
+For my ICS 314 we began dipping into Semantic UI as our choice of UI Frameworks. With this 
+new tool at our disposal, we are able to move beyond that simplistic style of html pages
+and become capable of producing appealing and attractive web pages. UI Frameworks allow us
+to move from <a href="..//images/sexy-boring.png">Boring things</a> to <a href="..//images/sexy-sexy.png">Sexy things</a> with efficiency
+at a few hours worth of upfront cost. Although difficult at first, you find out that you 
+can quickly pick up how logically formatted this Framework is. Our choice with Semantic UI
+was likely due to the logical format of which Semantic UI tries to use when defining 
+elements and variations. It may not have everything yet, but as it grows it becomes easier 
+to make things like a footer background segment that has several columns with lists, 
+links, forms and more with easily adjustable formatting if you want to make your own 
+variations by adding those alterations via css.
+
 </div>
 
 </body>
