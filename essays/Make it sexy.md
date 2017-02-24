@@ -41,8 +41,8 @@ Now finished you're about to share with cute little Tatiana and you realize Jaso
 nice shoes and nice hair and nice... actually drew your first visual understanding of what
 it meant for something to be sexy, next to Tati of course. And then you reflect. All you 
 really did was create several dozen never before seen shapes that not even your best 
-friend Brett would appreciate. <i> There goes Tati and Jason into the sunset as they 
-make use of my drawing to wrap their now tasteless gum.</i>
+friend Brett would appreciate. <i><small> There goes Tati and Jason into the sunset as they 
+make use of my drawing to wrap their now tasteless gum.</small></i>
 </div>
 
 <div class="p">
