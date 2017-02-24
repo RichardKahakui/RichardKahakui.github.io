@@ -26,10 +26,12 @@ nice shoes and nice hair and nice... actually drew your first visual understandi
 it meant for something to be sexy, next to Tati of course. And then you reflect. All you 
 really did was create several dozen never before seen shapes that not even your best 
 friend Brett would appreciate. <i> There goes Tati and Jake into the sunset as they 
-make use of my drawing to wrap their now tasteless gum.
+make use of my drawing to wrap their now tasteless gum.</i>
 </div>
-
+<div class="item"></div>
 <div class="item">
-We all know how to do a basic UI design using html and css. Even those who don't, can very
-quickly pick up the basics through many of the free and easy online coding courses. 
+Just like little old you, we all know how to do a basic UI design using html and css. Even
+those who don't, can very quickly pick up the basics through many of the free and easy 
+online coding courses. But once you finish you'll quickly realize one of the issues of 
+the base version, its its quite difficult to make it really how you want it.
 </div>
