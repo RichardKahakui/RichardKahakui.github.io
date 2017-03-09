@@ -49,7 +49,10 @@ labels:
 	behaviors to our web app. For use specifically, it allows us to prompt a user through 
 	the use of forms and let them submit data to a collection where upon submission the page
 	either responds with a red rejection in the fields where data is necessary or a green
-	submission successful.</p>
+	submission successful. The code associated with the green and red behaviors is understandable
+	enough noting that its simple just semantic ui format. The difficulty comes when really applying everything,
+	you can't simply aply it to just one directory because multiple directories refer to information 
+	through the app.</p>
 </div>
 
 </body>
