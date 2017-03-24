@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Meteor- Shooting Star of Inevitable Destruction
+title: Meteor- Shooting Star of Inevitable Devastation
 date: 2017-01-31
 labels: 
   - Meteor
@@ -25,7 +25,7 @@ We've finally come to that point in the semester where our professor brings out 
 
 My first reaction, and my second, and possibly even my first couple weeks worth of experiences would suggest that the potential meteor has is devastating.
 <br>
-<h3>Meteor Has Impacted</h3>
+<h3>Meteor Impact</h3>
 Much like what a meteor would do to the earth is what  Meteor has done to my brain. It quickly came into my life and blew my mind to smithereens. With so many different directories, files and new formatting, I quickly found myself heavily relying on video guided tutorials telling me exactly what to do, much like a child learning how to speak.
 </div>
 <iframe src="//giphy.com/embed/l0NwHXQy3kUSfFF60" width="380" height="170.72" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/justin-brain-mind-blown-l0NwHXQy3kUSfFF60"></a></p>
@@ -47,8 +47,5 @@ Just when you thought you were starting to understand the different aspects of M
 
 <div style="padding: 5px">
 Web app development can be a serious pain to understand. But pain is vital aspect to growth. The fustration of not being able to do something and then finally finding success in it helps to remember how to solve that problemin the future, for me at least. And having failed so many times, you can bet i've learned a serious amount of things up to this point. I can say that I am now motivated in improving my projects done through Meteor. Much like working with semantic-ui web page development, I find myself putting excess effort into little details that allow my work to shine just a little more. Although I have yet to completely harness the power of Meteor, I can honestly say I look forward to doing more work with web app development in the future. 
-</div>
-<div style="padding: 5px">
-
 </div>
 </body>
