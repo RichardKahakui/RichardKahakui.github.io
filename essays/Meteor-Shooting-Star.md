@@ -1,13 +1,12 @@
 ---
 layout: essay
 type: essay
-title: Meteor: Shooting Star of Inevitable Destruction
+title: Make it Sexy
 date: 2017-01-31
 labels: 
-  - Meteor
+  - UI Frameworks
   - Semantic UI
   - IntelliJ
-  - Functional Programming
 ---
 
 <link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
