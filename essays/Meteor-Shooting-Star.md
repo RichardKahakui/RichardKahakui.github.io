@@ -4,7 +4,7 @@ type: essay
 title: Make it Sexy
 date: 2017-01-31
 labels: 
-  - UI Frameworks
+  - Meteor
   - Semantic UI
   - IntelliJ
 ---
