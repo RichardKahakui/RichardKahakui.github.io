@@ -29,7 +29,7 @@ labels:
 	was so bad, that even after copying what i thought was "exactly" what they were doing 
 	i was still getting compile errors and thus forcing myself to repeat tutorials more than once.
 	This problem only evolved when we started our first assignments in meteor during the second week.
-	<p>
+	</p>
 	<br>
 	<p>After retrieving all the files and being able to run metoer in just a few minutes at most,
 	i felt like i was going to smash these assignments. Good thing my computer is so much better than me
