@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Meteor: Shooting Star of Innevitable Destruction
+title: Meteor- Shooting Star of Innevitable Destruction
 date: 2017-01-31
 labels: 
   - Meteor
