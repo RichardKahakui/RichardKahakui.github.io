@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Make it Sexy
+title: Meteor: Shooting Star of Innevitable Destruction
 date: 2017-01-31
 labels: 
   - Meteor
