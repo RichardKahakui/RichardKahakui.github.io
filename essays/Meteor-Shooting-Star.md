@@ -9,6 +9,7 @@ labels:
   - IntelliJ
   - Functional Programming
 ---
+
 <link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
 
 <style>
