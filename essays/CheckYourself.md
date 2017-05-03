@@ -12,11 +12,7 @@ labels:
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.2/semantic.min.js"></script>
 
-<div class="ui medium image">
-	<img class="ui left float image" src="..//images/reflection.png">
-</div>
 
-<div class="ui hidden divider"></div>
 
 <div> As a programmer, working for a large company seems like the ideal thing to do and that all you really need to do is follow what your told. But what happens when the company follows a direction that has questionable motives or outcomes. This is the point at which you take the time to reflect and begin to ask questions. Is this the right thing to do? What about the negative implications that stem from our work? 
 
