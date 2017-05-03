@@ -6,7 +6,6 @@ date: 2017-05-2
 labels: 
   - Programming
   - Ethics
-  - IntelliJ
 ---
 
 <div class="ui medium images">
