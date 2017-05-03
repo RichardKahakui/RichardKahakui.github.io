@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Make it Sexy
-date: 2017-01-31
+date: 2017-02-21
 labels: 
   - UI Frameworks
   - Semantic UI

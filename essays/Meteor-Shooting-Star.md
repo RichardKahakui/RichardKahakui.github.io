@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Meteor- Shooting Star of Inevitable Devastation
-date: 2017-01-31
+date: 2017-03-21
 labels: 
   - Meteor
   - Semantic UI
