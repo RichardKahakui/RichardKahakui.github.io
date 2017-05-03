@@ -23,7 +23,11 @@ In the end, do you continue working to pay the bills or do you oppose the curren
 <div> It was an incredible application, making roads safer and easier to navigate. And with smart phone technology arising, it seemed like a brilliant idea, making nearly all drivers capable of finding their way around the world. Google again amazed the world with their incredible database of information this time bringing it into the real world. 
 </div>
 
-<div class="ui hidden divider"></div>
+<br>
 
-<div> But then people began to realise, how real Google Streetview was. There were now clear images of your neighborhoods, homes, personal belongings and many other seriously private affairs. Although great for a normal person trying to have a good idea of where they're going, given to a criminal gives them an astounding amount of information without even leaving the comfort or safety of their own home.
+<div> But then people began to realize, how real Google Streetview was. There were now clear images of your neighborhoods, homes, personal belongings and many other seriously private affairs. Although great for a normal person trying to have a good idea of where they're going, given to a criminal gives them an astounding amount of information without even leaving the comfort or safety of their own home.
+</div>
 
+<br>
+<div>
+</div>
