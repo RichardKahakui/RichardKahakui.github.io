@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Check Yourself Before You ... 
 permalink: essays/ethics
-date: 2017-05-2
+date: 2017-05-02
 labels: 
   - Programming
   - Ethics
