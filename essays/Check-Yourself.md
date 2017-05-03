@@ -1,12 +1,14 @@
 ---
 layout: essay
 type: essay
-title: Check Yourself Before You ... 
-date: 2017-05-2
+title: The Code Nazi
+date: 2017-01-31
 labels: 
-  - Programming
-  - Ethics
+  - Coding Standards
+  - ESLint
+  - IntelliJ
 ---
+
 
 <div class="ui medium images">
 	<img class="ui left float image" src="..//images/reflection.png">
