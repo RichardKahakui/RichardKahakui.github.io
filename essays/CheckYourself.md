@@ -29,9 +29,9 @@ In the end, do you continue working to pay the bills or do you oppose the curren
 
 <br>
 
-<div> But then people began to realize, how real Google Streetview was. There were now clear images of your neighborhoods, homes, personal belongings and many other seriously private affairs. Although great for a normal person trying to have a good idea of where they're going, given to a criminal gives them an astounding amount of information without even leaving the comfort or safety of their own home.
+<div> But then people began to realize how real Google Streetview was. There were now clear images of your neighborhoods, homes, personal belongings and many other seriously private affairs. Although great for a normal person trying to have a good idea of where they're going, given to a criminal gives them an astounding amount of information without even leaving the comfort or safety of their own home.
 </div>
 
 <br>
-<div>
+<div> In a business standpoint, Google looses more money by not going through with the project and paying whatever lawsuit losses they will need to as a result. On the workers side, knowingly recording data from residencial wifi should have been restricted and even disposed. Workers notified supervisors yet the data was still stored afterwards. 
 </div>
