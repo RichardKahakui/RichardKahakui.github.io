@@ -1,3 +1,4 @@
+<!--
 ---
 layout: essay
 type: essay
@@ -7,6 +8,7 @@ labels:
   - Learning
   - OpenSource
 ---
+-->
 
 As a student learning new languages and different programming styles, the overflow of information can easily be overwhelming. Thankfully society has graced us with much experience and has shared exstensive knowledge with the young and new pioneers in the coding realm. This has lead to a meeting ground for beginners to dine in the knowledge that willing veterans divuldge. But how to actually get the said veterans to reveal their secrects is the real question.
 
