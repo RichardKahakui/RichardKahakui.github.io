@@ -1,7 +1,7 @@
 
 ---
 layout: essay
-
+<!--type: essay-->
 title: Life is Just a StackOverflow
 date: 2017-01-28
 labels: 
