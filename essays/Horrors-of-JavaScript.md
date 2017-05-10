@@ -1,3 +1,4 @@
+<!--
 ---
 layout: essay
 type: essay
@@ -6,6 +7,7 @@ date: 2017-01-19
 labels: 
   - Learning
 ---
+-->
 
 Although not actually a horror, learning new syntax sometimes can be. Even worse if one doesn’t consistently code. The JavaScript 1 assignment that I completed this week includes a basic introduction to JavaScript using FreeCodeCamp, two timed practice Euler Problems, and an in-class quiz problem called WOD, and my experiences on them.
 
