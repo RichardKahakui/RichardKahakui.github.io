@@ -1,3 +1,4 @@
+<!--
 ---
 layout: essay
 type: essay
@@ -7,7 +8,7 @@ labels:
   - Programming
   - Ethics
 ---
-
+-->
 <div class="ui medium images">
 	<img class="ui left float image" src="..//images/reflection.png">
 </div>
