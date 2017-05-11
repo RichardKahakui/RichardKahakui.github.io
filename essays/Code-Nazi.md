@@ -33,10 +33,10 @@ also increase and our Professor expects more from us. By actually getting strict
 standards, he forces us to learn new coding styles in order to promote speed and
 simplicity to our programming. 
 
-Enter the <strong>Code Nazi</strong>. ESLint is programming grammar nazi who basically 
+Enter the **Code Nazi**. ESLint is programming grammar nazi who basically 
 restricts the free world you once knew, into a very specific communist format. It is able
 to do this through the program IntelliJ which allows you to implement specific flag types
-of your choice. Apparently, ESLint is the one we like <em>*cough my professor likes</em>
+of your choice. Apparently, ESLint is the one we like **cough my professor likes*
 where one of the very specific things it does is restrict for loops and notifies you when all
 the for loops are gone. The reason we are likely forced to not have loops is because we 
 are trying to learn a new segment in programming called functional programming, utilizing
