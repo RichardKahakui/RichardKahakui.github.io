@@ -13,6 +13,7 @@ summary: My team developed an innovative multi-experiment payload to be conducte
 ---
 <div class="ui medium images">
   <img class="ui image" src="../images/Manoa-Munchies-Home.png">
+  <img class="ui image" src="../images/manoa-login-page.png">
 </div>
 
 Manoa Munchies is a Web Application which targets students apart of the University of Manoa. Manoa Munchies is an application designed to allow users to find food items and the associated vendor's location in relation to the user. It also allows users to save, like and rate items which can be viewed by other users allowing friends to know what each friends want. The app also describes each of the vendors and their hours of operations.
