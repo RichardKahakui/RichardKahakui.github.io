@@ -57,7 +57,7 @@ initially looks for when first visiting a web page, these are all addressed when
 UI Framework.
 </div>
 
-<h3>Time to Grow</3>
+<h3>Time to Grow</h3>
 <div class="p better">
 For my ICS 314 we began dipping into Semantic UI as our choice of UI Frameworks. With this 
 new tool at our disposal, we are able to move beyond that simplistic style of html pages
