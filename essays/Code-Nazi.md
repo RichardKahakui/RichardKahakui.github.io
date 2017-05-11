@@ -19,6 +19,9 @@ labels:
 	<img class="ui image" src="..//images/code-standards-face.jpeg">
 </div>
 
+
+### Setting Standards
+
 Coding standards are a general necessity to every programmers life whether your a beginner
 or a life long software developer. Obviously, a beginner would have fairly poor standards 
 at first, but is not just about spacing and indentations. Coding standards may also
