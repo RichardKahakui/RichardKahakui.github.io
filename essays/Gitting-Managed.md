@@ -8,9 +8,8 @@ labels:
   - GitHub
 ---
 
-<div class="ui segment">
-	<img class="ui centered small image" src="https://puppet.com/sites/default/files/2016-03/configuration-lg_3.png">
-</div>
+
+<img class="ui centered small image" src="https://puppet.com/sites/default/files/2016-03/configuration-lg_3.png">
 
 Configuration Management is a basic yet seemingly advanced practice when learning 
 programming. Although it usually does appear in one's first programming class, the depth
