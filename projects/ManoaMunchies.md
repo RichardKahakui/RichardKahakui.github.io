@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Manoa-Munchies-Home.png
+image: images/manoa-cover.png
 title: Taste of Manoa
 permalink: projects/ManoaMunchies
 date: 2016
