@@ -33,7 +33,7 @@ div.p {
 	<img class="ui image" src="..//images/sexy-bad.jpg">
 </div>
 
-### Ignorance of the Past
+<h3>Ignorance of the Past</h3>
 <div class="p bad">
 Remember back to your younger days, still in grade school and its art time. And this
 being your first time, you pull out all your crayons and color to your hearts content. 
@@ -46,17 +46,18 @@ friend Brett would appreciate. <i><small> There goes Tati and Jason into the sun
 make use of my drawing to wrap their now tasteless gum.</small></i>
 </div>
 
-
+<div class="p">
 Just like little old you, we all know how to do a basic UI design using html and css. Even
-those who don't can very quickly pick up the basics through many of the free and easy 
+those who don't, can very quickly pick up the basics through many of the free and easy 
 online coding courses. But once you finish you'll quickly realize one of the issues of 
 the vanilla version, is that it's quite difficult to make it really how you want it. 
 Luckily, much like this font, your development process can greatly improve. Whether
 it is the immense time it takes to format things properly or the appeal factor that one
 initially looks for when first visiting a web page, these are all addressed when using a 
 UI Framework.
+</div>
 
-### Time to Grow
+<h3>Time to Grow</3>
 <div class="p better">
 For my ICS 314 we began dipping into Semantic UI as our choice of UI Frameworks. With this 
 new tool at our disposal, we are able to move beyond that simplistic style of html pages
