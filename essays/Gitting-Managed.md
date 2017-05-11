@@ -17,7 +17,7 @@ programming. Although it usually does appear in one's first programming class, t
 in which the class highlights configuration management only scratches the surface. The 
 same has occurred for me and didn't advance until I entered an upper division software 
 engineering course with the use of Git/GitHub.
-</div
+</div>
 
 My first experiences with any sort of Configuration Management is in my first programming
 class where we learned C through unix. If even considered such, The organization of any 
