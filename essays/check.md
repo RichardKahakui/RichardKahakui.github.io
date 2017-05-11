@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: essay
+<!--type: essay-->
 title: Semantic's Aside . . . 
 permalink: essays/uiframeworks
 date: 2017-02-23
