@@ -11,7 +11,7 @@ labels:
   - Meteor
 summary: My team developed an innovative multi-experiment payload to be conducted in sub-orbital space in Summer 2016.
 ---
-<div class="ui middle medium images">
+<div class="ui fluid images">
   <img class="ui image" src="../images/Manoa-Munchies-Home.png">
   <img class="ui image" src="../images/manoa-login-page.png">
 </div>
@@ -22,4 +22,4 @@ There were three members of this team, with implementation tasks divided amongst
 
 This project provided a lot of experience when dealing with a large scale project. Management becomes a very important concept to consider when dealing with multiple people working on so many different files which may or may not interfere with another members work. The first of these includes task management. Making sure to not step on other users by making separate branches utilizing github. This also assures that new implementations can be tested before being thrown into the master code assuring new additions don't damage existing ones. Another thing that became a universal problem for our group was naming convention. We noticed things weren't logical from one person to another, and did not maintain consistent naming throughout variables or directories and such, requiring full system renaming which can become time consuming and problematic.
 
-The biggest challenges I dealth with personally included trying to create something from scratch. 
+The biggest challenges I dealt with personally included trying to create something from scratch. Creating a new collection wasn't that hard, although it still took considerable amount of time. It was figuring out what exactly that collection affects and how to make it do what needs to be done. Functionality was always something that could easily trip me, and then trying to get it into the correct format with the right naming convention was difficult to be consistently successful in.
