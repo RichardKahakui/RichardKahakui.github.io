@@ -9,15 +9,7 @@ labels:
   - IntelliJ
 ---
 
-<div class="ui tiny images">
-	<img class="ui image" src="..//images/code-standards-intellij.jpg">
-	<img class="ui image" src="..//images/code-standards-arrow.png">
-	<img class="ui image" src="..//images/code-standards-eslint.png">
-	<img class="ui image" src="..//images/code-standards-arrow.png">
-	<img class="ui image" src="..//images/code-standards-stop.png">
-	<img class="ui image" src="..//images/code-standards-arrow.png">
-	<img class="ui image" src="..//images/code-standards-face.jpeg">
-</div>
+
 
 Coding standards are a general necessity to every programmers life whether your a beginner
 or a life long software developer. Obviously, a beginner would have fairly poor standards 
@@ -42,7 +34,7 @@ the for loops are gone. The reason we are likely forced to not have loops is bec
 are trying to learn a new segment in programming called functional programming, utilizing
 the underscore library to negate the need to use any if statements or loops.
 
-The Code Nazi notifies you when everything is okay through a green check mark. I have
+The Code Nazi notifies you when everything is okay through a green check mark. <img class="ui small right floated image" src="..//images/code-standards-david.jpg">I have
 found myself dreading to see if there is a green check in corner or not. However, as 
 strict as it is, ESLint isn't trying to kill us but allowing us to practice on 
 diversifying our programming knowledge base. Although I do find some of its spacing issues
