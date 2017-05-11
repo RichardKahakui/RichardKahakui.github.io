@@ -11,7 +11,7 @@ labels:
   - Meteor
 summary: My team developed an innovative multi-experiment payload to be conducted in sub-orbital space in Summer 2016.
 ---
-<div class="ui centered large images">
+<div class="ui middle medium images">
   <img class="ui image" src="../images/Manoa-Munchies-Home.png">
   <img class="ui image" src="../images/manoa-login-page.png">
 </div>
