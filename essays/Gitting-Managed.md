@@ -10,14 +10,14 @@ labels:
 
 <div class="ui segment">
 	<img class="ui centered small image" src="https://puppet.com/sites/default/files/2016-03/configuration-lg_3.png">
-
+</div>
 
 Configuration Management is a basic yet seemingly advanced practice when learning 
 programming. Although it usually does appear in one's first programming class, the depth
 in which the class highlights configuration management only scratches the surface. The 
 same has occurred for me and didn't advance until I entered an upper division software 
 engineering course with the use of Git/GitHub.
-</div>
+
 
 My first experiences with any sort of Configuration Management is in my first programming
 class where we learned C through unix. If even considered such, The organization of any 
@@ -36,31 +36,30 @@ assignment becomes a catastrophe when members save over other peoples code, repl
 completed chunks of working code. Hours of work completely down the drain. The desperate
 attempt of finding the optimal collaboration IDE lingers with the end of each of class.
 
-<div class="ui segment">
-	<img class="ui small left floated image" src="..//images/godsent.jpg">
+<img class="ui small left floated image" src="..//images/godsent.jpg">
 
 But thankfully! transcending past unix and into the 21st century, we now have the beauty 
-which is <strong>Git/GitHub</strong>. Git/GitHub is that God sent prodigy child that allows for all your
+which is **Git/GitHub**. Git/GitHub is that God sent prodigy child that allows for all your
 organization, management and even collaboration issues to be addressed given you nurture
 your growth with Git. 
-<ul>
-<li> no longer worry about dealing with directories now that there is one place to keep your 
-files in a repository using their easy to follow user interface. </li>
-<li> No Longer look and replace and copy files from all over when they're all located in one 
-place. </li>
-<li> <strong>NO LONGER</strong> deal with annoying team members who step on your code and cause a desperate 
-cram sesh to recreate hours of work, since now you can branch off similar working code 
-altar just what you need and push up only the changes necessary.</li>
-</ul>
 
-<p>GitHub with it's cloud based not only allows friends to collaborate, but also allows you
+- No Longer worry about dealing with directories now that there is one place to keep your 
+files in a repository using their easy to follow user interface. 
+- NO LONGER look and replace and copy files from all over when they're all located in one 
+place. 
+- **NO LONGER** deal with annoying team members who step on your code and cause a desperate 
+cram sesh to recreate hours of work, since now you can branch off similar working code 
+altar just what you need and push up only the changes necessary.
+
+
+GitHub with it's cloud based not only allows friends to collaborate, but also allows you
 to publish your work for all to 
 Even further, in addition to working on your browser, you can quickly work off their 
 desktop app without having to go through the difficulties of having a browser. Their 
 desktop app isn't just an alternative, its an improvement allowing for quicker changes 
 and updates.
 
-<p>GitHub seems to be the most popular Configuration Management tool and not by accident. 
+GitHub seems to be the most popular Configuration Management tool and not by accident. 
 Coders know the issues and Git has addressed them. And with the ability to work off their
 desktop it is even more comfortable. I have found it more efficient than any other method
 and it is quick to pick up since it runs from a familiar interface that all are used to.
