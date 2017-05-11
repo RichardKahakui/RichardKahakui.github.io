@@ -17,8 +17,9 @@ programming. Although it usually does appear in one's first programming class, t
 in which the class highlights configuration management only scratches the surface. The 
 same has occurred for me and didn't advance until I entered an upper division software 
 engineering course with the use of Git/GitHub.
+</div
 
-<p>My first experiences with any sort of Configuration Management is in my first programming
+My first experiences with any sort of Configuration Management is in my first programming
 class where we learned C through unix. If even considered such, The organization of any 
 files and projects were all saved in our user directories. This provides the problem
 that everything has to be manually navigated through. Although in the right hands it can
@@ -26,7 +27,7 @@ can be potentially powerful, in my experience navigation was the easiest task bu
 and transferring anything was a nightmare! I often wished there was a quicker and less 
 problematic way of moving files let alone renaming them.
 
-<p>Further more, in future programming classes, you also have the issue of group assignments.
+Further more, in future programming classes, you also have the issue of group assignments.
 When you develop a program with other group members you will always run into the issue of
 how to code simultaneously and how to update your finished code with your partners
 unfinished code. Group members tend to help because work can be divided and problems can 
