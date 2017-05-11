@@ -9,7 +9,15 @@ labels:
   - IntelliJ
 ---
 
-
+<div class="ui tiny images">
+	<img class="ui image" src="..//images/code-standards-intellij.jpg">
+	<img class="ui image" src="..//images/code-standards-arrow.png">
+	<img class="ui image" src="..//images/code-standards-eslint.png">
+	<img class="ui image" src="..//images/code-standards-arrow.png">
+	<img class="ui image" src="..//images/code-standards-stop.png">
+	<img class="ui image" src="..//images/code-standards-arrow.png">
+	<img class="ui image" src="..//images/code-standards-face.jpeg">
+</div>
 
 Coding standards are a general necessity to every programmers life whether your a beginner
 or a life long software developer. Obviously, a beginner would have fairly poor standards 
