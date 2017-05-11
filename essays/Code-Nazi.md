@@ -33,7 +33,7 @@ also increase and our Professor expects more from us. By actually getting strict
 standards, he forces us to learn new coding styles in order to promote speed and
 simplicity to our programming. 
 
-<h5>Enter the **Code Nazi**<h5>
+<h5>Enter the <strong>Code Nazi</strong></h5>
 ESLint is programming grammar nazi who basically 
 restricts the free world you once knew, into a very specific communist format. It is able
 to do this through the program IntelliJ which allows you to implement specific flag types
