@@ -36,7 +36,7 @@ assignment becomes a catastrophe when members save over other peoples code, repl
 completed chunks of working code. Hours of work completely down the drain. The desperate
 attempt of finding the optimal collaboration IDE lingers with the end of each of class.
 
-### Best Outcome
+### The Blessing of GitHub
 <img class="ui small left floated image" src="..//images/godsent.jpg">
 
 But thankfully! transcending past unix and into the 21st century, we now have the beauty 
