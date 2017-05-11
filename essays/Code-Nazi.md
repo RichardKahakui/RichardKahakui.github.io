@@ -33,7 +33,6 @@ also increase and our Professor expects more from us. By actually getting strict
 standards, he forces us to learn new coding styles in order to promote speed and
 simplicity to our programming. 
 
-<div class="ui segment">
 Enter the <strong>Code Nazi</strong>. ESLint is programming grammar nazi who basically 
 restricts the free world you once knew, into a very specific communist format. It is able
 to do this through the program IntelliJ which allows you to implement specific flag types
@@ -43,14 +42,12 @@ the for loops are gone. The reason we are likely forced to not have loops is bec
 are trying to learn a new segment in programming called functional programming, utilizing
 the underscore library to negate the need to use any if statements or loops.
 
-<br>
-<p>The Code Nazi notifies you when everything is okay through a green check mark. <img class="ui small right floated image" src="..//images/code-standards-david.jpg">I have
+The Code Nazi notifies you when everything is okay through a green check mark. <img class="ui small right floated image" src="..//images/code-standards-david.jpg">I have
 found myself dreading to see if there is a green check in corner or not. However, as 
 strict as it is, ESLint isn't trying to kill us but allowing us to practice on 
 diversifying our programming knowledge base. Although I do find some of its spacing issues
 quite excessive, I do feel a sense of beauty in the masterpiece which ESLint has forced 
-us to sculpt.</p> 	
-</div>
+us to sculpt.
 
 In my personal opinion, coding standards are something you should consider implementing. 
 Making it even stricter makes large blocks of code very easy to follow for anyone. For 

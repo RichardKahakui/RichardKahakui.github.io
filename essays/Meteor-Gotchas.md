@@ -9,7 +9,6 @@ labels:
   - IntelliJ
 ---
 
-<body>
 
 <div class="ui segment">
 <h2> Meteor the Biggest Beast Yet</h2>
@@ -55,4 +54,3 @@ labels:
 	through the app.</p>
 </div>
 
-</body>
